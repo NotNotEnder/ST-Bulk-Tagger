@@ -6,7 +6,7 @@
     "optional": [],
     "js": "index.js",
     "css": "style.css",
-    "author": "Antigravity",
+    "author": "NotNotEnder",
     "description": "Allows selecting multiple characters at a time and adding/removing tags in bulk.",
     "version": "1.0.0",
     "manifest_version": 3
