@@ -1,0 +1,13 @@
+{
+    "name": "multi-tag",
+    "display_name": "Multi-Tag Character Extension",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Antigravity",
+    "description": "Allows selecting multiple characters at a time and adding/removing tags in bulk.",
+    "version": "1.0.0",
+    "manifest_version": 3
+}
